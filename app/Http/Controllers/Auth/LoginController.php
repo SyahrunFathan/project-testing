@@ -37,7 +37,7 @@ class LoginController extends Controller
             'name' => $request->nama,
             'email' => $request->email,
             'password' => Hash::make($request->password),
-            'role_id' => 1
+            'role_id' => 2
         ];
 
         User::create($data);
