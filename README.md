@@ -66,8 +66,9 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 # project-testing
-
+- Import Database db_shoping.sql
+- Jalankan perintah php artisan serve
 ### Cara Login Admin
 
--   Email : syahrulmei002@gmail.com
+-   Email : arunilaba12@gmail.com
 -   Password : admin12345
